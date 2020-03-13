@@ -1,7 +1,7 @@
 # Youtube-playlist-maker-using-links
 want to make playlist using old chat use this code
 
-                              *Create a Empty Playlist Before Starting*
+                              *Create an Empty Playlist Before Starting*
 
 Note:- I use stack overflow for login purpose because login direct through google throws an error.
 
