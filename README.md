@@ -1,6 +1,8 @@
 # Youtube-playlist-maker-using-links
 want to make playlist using old chat use this code
 
+Note:- I use stack overflow for login purpose because login direct through google throws an error.
+
 1. Make sure you store txt file in same directory
 2. install selenium package
    link :- https://selenium-python.readthedocs.io/installation.html
