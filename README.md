@@ -1,5 +1,5 @@
 # Youtube-playlist-maker-using-links
-want to make playlist using old chat use this code
+want to make playlist using links/old chats/names use this code
 
                               *Create an Empty Playlist Before Starting*
 
@@ -8,12 +8,10 @@ Note:- I use stack overflow for login purpose because login direct through googl
 1. Make sure you store txt file in same directory
 2. install selenium package
    link :- https://selenium-python.readthedocs.io/installation.html
-3. install chromedriver
+3. download chromedriver and place in same folder
    link :- https://chromedriver.chromium.org/
-4. set it to path = check chrome version by click on->  3 dots(top left corner->help->about google chrome)
-                   or 
-    write chromedriver path in lin 12 :       self.driver = webdriver.Chrome('Here write you location in quotes')
-5. Enter filename
+4. Enter Filename With extention
+5. Enter what your file contains links/names as directed in code
 6. Enter username
 7. Enter password  #password will not show in terminal/command prompt while typing because that is protected
 8. If you acoount is protected with authentication you get 11 second to authenticate
