@@ -1,4 +1,4 @@
-# Install selenium before running the script
+# Go through Readme.md before use
 import re
 from selenium import webdriver
 from time import sleep
