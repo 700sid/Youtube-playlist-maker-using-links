@@ -1,7 +1,7 @@
 # Youtube-playlist-maker-using-links
 want to make playlist using links/old chats/names use this code
 
-                              *Create an Empty Playlist Before Starting*
+                                 *Create an Empty Playlist Before Starting*
 
 Note:- I use stack overflow for login purpose because login direct through google throws an error.
 
@@ -12,6 +12,7 @@ Note:- I use stack overflow for login purpose because login direct through googl
    link :- https://chromedriver.chromium.org/
 4. Enter Filename With extention
 5. Enter what your file contains links/names as directed in code
+        Note :- If you are using playlist by names then write one name in one line.
 6. Enter username
 7. Enter password  #password will not show in terminal/command prompt while typing because that is protected
 8. If you acoount is protected with authentication you get 11 second to authenticate
